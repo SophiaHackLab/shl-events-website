@@ -1,0 +1,40 @@
+site_name: SHL - Sophia Hack Lab
+
+# Doc: https://squidfunk.github.io/mkdocs-material/setup/
+theme:
+  name: material
+  # logo: https://shl.events/img/shl-logo.png
+  # favicon: https://shl.events/img/shl-logo.png
+
+  palette:
+    primary: black
+    accent: green
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+nav:
+  - 'index.md'
+  - 'events.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SophiaHackLab
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/sophia-hack-lab/
+
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/shl_sophiahacklab
+
+# Doc: https://squidfunk.github.io/mkdocs-material/plugins/
+plugins:
+  # Catalog: https://github.com/mkdocs/catalog
+  - minify:
+      minify_html: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+  - privacy
