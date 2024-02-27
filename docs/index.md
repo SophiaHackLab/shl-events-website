@@ -20,9 +20,9 @@ A but non lucratif.
 
 ## Adresse
 
-SHL // Sophia Hack Lab\
-2323 Chemin de Saint Bernard\
-Space Antipolis Batiment 9\
+SHL // Sophia Hack Lab<br>
+2323 Chemin de Saint Bernard<br>
+Space Antipolis Batiment 9<br>
 06220 VALLAURIS
 
 ## Social
