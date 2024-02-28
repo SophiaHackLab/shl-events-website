@@ -10,13 +10,11 @@ Bienvenue au SHL !
 
 ## Description
 
-<div style="font-size:18px;">
 Le <b>SHL</b> est un <b>HACKERSPACE</b>.<br>
 Un environnement pour des projets techniques et créatifs.<br>
 À Sophia Antipolis.<br>
 Géré collaborativement par ses membres.<br>
 A but non lucratif.
-</div>
 
 ## Adresse
 
