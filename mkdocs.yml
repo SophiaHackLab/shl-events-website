@@ -16,7 +16,7 @@ theme:
 
 nav:
   - 'events.md'
-  - 'about.md'
+  - 'index.md'
 
 extra:
   social:

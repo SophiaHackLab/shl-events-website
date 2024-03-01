@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About
+# Home
 
 Bienvenue au SHL !
 
