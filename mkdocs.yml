@@ -15,8 +15,8 @@ theme:
     - navigation.tabs.sticky
 
 nav:
-  - 'index.md'
   - 'events.md'
+  - 'about.md'
 
 extra:
   social:
