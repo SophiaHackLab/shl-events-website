@@ -4,37 +4,20 @@ hide:
   - toc
 ---
 
-# Home
+# Events
 
-Bienvenue au SHL !
-
-## Description
-
-Le <b>SHL</b> est un <b>HACKERSPACE</b>.<br>
-Un environnement pour des projets techniques et créatifs.<br>
-À Sophia Antipolis.<br>
-Géré collaborativement par ses membres.<br>
-A but non lucratif.
-
-## Adresse
-
-SHL // Sophia Hack Lab<br>
-2323 Chemin de Saint Bernard<br>
-Space Antipolis Batiment 9<br>
-06220 VALLAURIS
-
-## Social
-
-- WhatsApp : [SHL](https://api.whatsapp.com/send?phone=33685926988)
-- LinkedIn : [sophia-hack-lab](https://www.linkedin.com/company/sophia-hack-lab/)
-- Discord : [SHL // Sophia Hack Lab](https://discord.gg/Bp2c8NaQMN)
-- Instagram : [shl_sophiahacklab](https://instagram.com/shl_sophiahacklab)
-- Email : [crew@shl.contact](mailto:crew@shl.contact)
-
-## Publications
-
-- Dec 11, 2023 - [Rêver du SHL…](https://medium.com/@sw_698/r%C3%AAver-du-shl-6bdc0a58828e)
-
-## Sponsors
-
-- ADVANS Group Ingénierie Systèmes Electroniques Logiciels Mécaniques
+| Date     | Name                             |
+|:-------- |:-------------------------------- |
+| Ve.01/03 | Les Explor’Hackers (P. Escoubas) |
+| Lu.04/03 | Codage créatif                   |
+| Ma.05/03 | Réalité étendue (VR, AR...)      |
+| Lu.11/03 | Web décentralisé (Web 3)         |
+| Ma.12/03 | Géomatique                       |
+| Me.13/03 | DroNerds (Rencontre Drones)      |
+| Je.14/03 | Hacking éthique                  |
+| Lu.18/03 | Synthographie (IA Art)           |
+| Ma.19/03 | Système Linux                    |
+| Je.21/03 | Apéro «Reboot the SHL» #4        |
+| Lu.25/03 | Robotique ?                      |
+| Ma.26/03 | RAL Linux (avec Linux Azur)      |
+| Ve.29/03 | Hackpéro 06 (avec HIP & CEFCYS)  |
